@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "${workspaceRoot}/../../../../libs/openFrameworks"
+		},
+		{
+			"path": "${workspaceRoot}/../../../../addons/ofxVideoRecorder"
+		}
+	],
+	"openFrameworksProjectGeneratorVersion": "33",
+	"settings": {}
+}
